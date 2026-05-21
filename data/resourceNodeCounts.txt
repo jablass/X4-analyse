@@ -1,97 +1,121 @@
 cluster_43_sector001_macro
+	sphere_medium_ore_medium_average 3
 	sphere_small_rawscrap_medium_average 6
-	sphere_large_silicon_low_average 3
-	sphere_huge_ore_medium_slow 1
-	sphere_huge_silicon_medium_slow 1
-	sphere_large_ore_low_average 3
+	sphere_tiny_ore_low_fast 2
+	sphere_medium_silicon_medium_average 1
+	sphere_huge_silicon_high_slow 4
+	sphere_large_ore_high_slow 3
+	sphere_tiny_silicon_low_fast 1
 	sphere_huge_rawscrap_veryhigh_veryslow 2
 cluster_18_sector001_macro
 	sphere_medium_methane_medium_veryslow 2
-	sphere_medium_ore_low_slow 3
+	sphere_tiny_ore_low_fast 1
 	sphere_small_nividium_verylow_veryslow 1
 	sphere_small_helium_low_veryslow 1
-	sphere_medium_silicon_low_slow 4
+	sphere_tiny_ore_medium_average 1
 	sphere_medium_hydrogen_medium_veryslow 2
-	sphere_medium_ice_medium_fast 4
+	sphere_tiny_ice_medium_average 4
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 1
 cluster_05_sector001_macro
 	sphere_medium_hydrogen_high_average 3
 	sphere_large_hydrogen_veryhigh_slow 3
 	sphere_medium_hydrogen_medium_veryfast 5
 cluster_37_sector001_macro
+	sphere_small_silicon_high_slow 4
 	sphere_medium_methane_medium_average 2
-	sphere_huge_ore_medium_slow 5
-	sphere_huge_silicon_medium_slow 4
+	sphere_tiny_ore_low_fast 1
+	sphere_small_ore_high_slow 3
 	sphere_large_methane_high_slow 2
+	sphere_tiny_ore_medium_average 2
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 3
 cluster_33_sector001_macro
 	sphere_medium_hydrogen_medium_veryslow 2
 	sphere_medium_rawscrap_low_slow 3
 cluster_410_sector001_macro
-	sphere_large_ice_medium_veryfast 4
-	sphere_large_ore_medium_veryfast 4
-	sphere_huge_ice_low_slow 1
-	sphere_huge_silicon_medium_average 1
-	sphere_large_silicon_medium_veryfast 4
-	sphere_huge_ore_medium_average 1
+	sphere_medium_ice_medium_average 1
+	sphere_huge_ice_high_slow 3
+	sphere_large_ore_medium_average 4
+	sphere_medium_silicon_medium_average 3
+	sphere_huge_silicon_high_slow 4
+	sphere_tiny_ice_low_fast 2
+	sphere_tiny_silicon_low_fast 3
+	sphere_huge_ore_high_slow 2
+	sphere_small_ore_low_fast 2
 cluster_08_sector001_macro
 	sphere_medium_nividium_medium_fast 1
+	sphere_small_silicon_medium_average 3
 	sphere_small_hydrogen_low_veryfast 2
 	sphere_large_hydrogen_high_average 2
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_large_silicon_medium_average 3
-	sphere_huge_silicon_high_slow 3
+	sphere_tiny_silicon_low_fast 1
+	sphere_large_silicon_high_slow 3
 cluster_50_sector002_macro
 	sphere_large_hydrogen_high_slow 2
+	sphere_small_silicon_high_slow 3
+	sphere_tiny_ore_low_fast 1
+	sphere_small_ore_high_slow 4
 	sphere_medium_hydrogen_medium_average 5
 	sphere_medium_nividium_high_average 1
-	sphere_huge_ore_veryhigh_slow 3
-	sphere_large_silicon_high_average 3
-	sphere_large_ore_high_average 3
-	sphere_huge_silicon_veryhigh_slow 2
+	sphere_tiny_silicon_low_fast 3
+	sphere_tiny_silicon_medium_average 4
 cluster_50_sector001_macro
+	sphere_small_silicon_high_slow 5
+	sphere_tiny_ore_low_fast 1
 	sphere_medium_nividium_medium_slow 1
+	sphere_small_ore_high_slow 5
 	sphere_medium_hydrogen_medium_average 4
-	sphere_huge_ore_veryhigh_slow 3
+	sphere_tiny_ore_medium_average 4
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_large_silicon_high_average 4
-	sphere_medium_ore_high_average 3
-	sphere_huge_silicon_veryhigh_slow 2
+	sphere_tiny_silicon_low_fast 3
+	sphere_tiny_silicon_medium_average 3
 cluster_49_sector001_macro
-	sphere_medium_silicon_low_veryfast 6
-	sphere_huge_ore_medium_slow 1
+	sphere_small_ore_medium_average 2
+	sphere_large_ore_veryhigh_slow 3
+	sphere_tiny_ore_low_fast 1
 	sphere_huge_methane_veryhigh_veryslow 1
 	sphere_large_hydrogen_high_average 2
-	sphere_huge_silicon_medium_slow 1
-	sphere_large_silicon_medium_fast 3
+	sphere_medium_ore_high_slow 2
 	sphere_huge_hydrogen_veryhigh_slow 2
+	sphere_medium_silicon_medium_average 5
+	sphere_tiny_silicon_low_fast 3
 	sphere_medium_hydrogen_medium_veryfast 3
-	sphere_large_ore_high_fast 1
+	sphere_large_silicon_high_slow 3
+	sphere_huge_silicon_veryhigh_slow 1
 	sphere_medium_helium_medium_veryslow 2
 cluster_415_sector001_macro
+	sphere_small_ore_medium_average 20
 	sphere_large_hydrogen_high_slow 2
-	sphere_medium_ore_medium_veryfast 8
-	sphere_large_silicon_high_fast 4
-	sphere_medium_nividium_low_fast 2
+	sphere_tiny_ore_low_fast 20
+	sphere_medium_silicon_high_slow 20
+	sphere_small_silicon_medium_average 20
 	sphere_medium_hydrogen_medium_average 5
-	sphere_huge_ice_high_slow 1
-	sphere_large_ore_medium_average 4
-	sphere_large_ice_high_fast 2
-	sphere_medium_silicon_medium_veryfast 5
-	sphere_huge_ore_high_slow 2
-	sphere_huge_silicon_veryhigh_slow 1
+	sphere_large_ore_high_slow 20
+	sphere_tiny_ice_low_fast 1
+	sphere_large_ice_high_slow 3
+	sphere_tiny_silicon_low_fast 20
+	sphere_small_ice_medium_average 4
 cluster_02_sector001_macro
-	sphere_huge_silicon_low_average 3
+	sphere_small_ore_medium_average 3
 	sphere_medium_methane_medium_average 2
 	sphere_huge_methane_veryhigh_slow 2
+	sphere_tiny_ore_low_fast 2
+	sphere_small_silicon_medium_average 4
+	sphere_small_methane_medium_veryfast 2
 	sphere_huge_helium_veryhigh_slow 2
-	sphere_small_methane_low_veryfast 1
-	sphere_huge_ore_low_average 4
+	sphere_huge_silicon_high_slow 2
+	sphere_large_ore_high_slow 4
+	sphere_tiny_silicon_low_fast 1
 cluster_40_sector001_macro
-	sphere_medium_ore_medium_veryfast 3
-	sphere_huge_silicon_medium_slow 4
-	sphere_large_ore_medium_average 3
-	sphere_medium_silicon_low_average 5
-	sphere_huge_ore_high_slow 1
+	sphere_large_ore_veryhigh_slow 4
+	sphere_tiny_ore_low_fast 1
+	sphere_small_silicon_medium_average 4
+	sphere_tiny_ore_medium_average 2
+	sphere_tiny_silicon_low_fast 4
 	sphere_medium_nividium_low_average 2
+	sphere_large_silicon_high_slow 4
 cluster_604_sector001_macro
 	sphere_medium_rawscrap_medium_veryfast 8
 cluster_606_sector002_macro
@@ -103,87 +127,95 @@ cluster_723_sector001_macro
 	sphere_large_helium_high_slow 4
 	sphere_large_helium_high_average 2
 cluster_602_sector001_macro
-	sphere_medium_ore_medium_veryfast 8
-	sphere_huge_ore_medium_fast 2
-	sphere_huge_silicon_medium_fast 1
-	sphere_large_silicon_medium_veryfast 5
+	sphere_small_ore_medium_average 2
+	sphere_medium_silicon_medium_slow 5
+	sphere_tiny_silicon_low_average 1
+	sphere_huge_ore_veryhigh_slow 2
 cluster_416_sector002_macro
-	sphere_huge_ice_high_slow 1
-	sphere_large_ice_medium_average 5
-	sphere_medium_ice_medium_veryfast 10
+	sphere_tiny_ice_low_fast 4
+	sphere_large_ice_high_slow 4
+	sphere_small_ice_medium_average 4
 cluster_41_sector001_macro
-	sphere_large_silicon_low_average 3
-	sphere_huge_ore_medium_slow 1
-	sphere_large_ore_low_average 3
-	sphere_huge_silicon_low_slow 3
+	sphere_medium_ore_medium_average 3
+	sphere_tiny_ore_low_fast 1
+	sphere_huge_ore_veryhigh_slow 1
+	sphere_medium_silicon_medium_average 3
+	sphere_huge_silicon_high_slow 1
+	sphere_tiny_silicon_low_fast 1
 cluster_601_sector001_macro
-	sphere_huge_ore_high_average 1
-	sphere_medium_ore_medium_veryfast 5
+	sphere_small_ore_medium_fast 5
+	sphere_large_ore_veryhigh_slow 2
 	sphere_medium_methane_medium_average 3
 	sphere_huge_methane_veryhigh_slow 1
+	sphere_large_silicon_veryhigh_slow 2
+	sphere_tiny_ore_low_veryfast 4
 	sphere_huge_helium_veryhigh_slow 1
 	sphere_medium_hydrogen_medium_average 3
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_huge_silicon_high_fast 1
-	sphere_medium_silicon_medium_veryfast 5
+	sphere_medium_silicon_high_average 1
+	sphere_medium_ore_high_average 2
+	sphere_small_silicon_medium_fast 3
 	sphere_medium_helium_medium_average 5
 cluster_704_sector001_macro
-	sphere_huge_ice_medium_slow 1
-	sphere_huge_ore_medium_slow 2
+	sphere_small_ore_medium_average 3
+	sphere_tiny_ore_low_fast 3
 	sphere_small_nividium_verylow_veryslow 2
-	sphere_medium_ore_medium_fast 5
-	sphere_large_ice_medium_average 3
+	sphere_large_ore_high_slow 4
+	sphere_tiny_ice_low_fast 3
+	sphere_large_ice_high_slow 2
+	sphere_small_ice_medium_average 2
 cluster_500_sector001_macro
-	sphere_medium_ore_medium_average 8
+	sphere_large_ore_veryhigh_slow 2
 	sphere_medium_methane_medium_average 6
 	sphere_huge_methane_veryhigh_slow 2
+	sphere_large_ice_high_average 4
+	sphere_large_silicon_veryhigh_slow 2
 	sphere_medium_helium_medium_veryfast 4
-	sphere_huge_ice_medium_slow 1
+	sphere_huge_ice_high_veryslow 2
 	sphere_huge_helium_veryhigh_slow 3
-	sphere_huge_silicon_medium_slow 3
 	sphere_medium_hydrogen_medium_average 3
+	sphere_small_ice_medium_veryfast 4
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_large_silicon_medium_average 4
-	sphere_medium_ice_low_veryfast 8
+	sphere_medium_silicon_high_average 2
+	sphere_medium_ore_high_average 1
 	sphere_large_helium_high_average 6
-	sphere_large_ice_low_average 4
-	sphere_huge_ore_high_slow 1
 	sphere_medium_nividium_low_average 1
 cluster_500_sector003_macro
-	sphere_huge_ore_high_average 1
+	sphere_large_ore_veryhigh_slow 2
 	sphere_medium_methane_medium_average 2
 	sphere_huge_methane_veryhigh_slow 2
+	sphere_large_ice_high_average 5
+	sphere_large_silicon_veryhigh_slow 2
 	sphere_medium_helium_medium_veryfast 5
-	sphere_huge_ice_medium_slow 1
 	sphere_medium_methane_medium_veryfast 3
+	sphere_huge_ice_veryhigh_slow 2
 	sphere_large_hydrogen_high_average 1
 	sphere_huge_helium_veryhigh_slow 3
-	sphere_medium_ore_low_fast 6
-	sphere_medium_silicon_low_fast 6
+	sphere_tiny_ore_medium_fast 3
+	sphere_small_ice_medium_veryfast 8
 	sphere_huge_hydrogen_veryhigh_slow 4
-	sphere_medium_ice_low_veryfast 8
+	sphere_tiny_silicon_medium_fast 2
+	sphere_tiny_silicon_medium_veryfast 1
 	sphere_large_helium_high_average 1
-	sphere_large_ice_low_average 4
-	sphere_huge_silicon_high_average 1
 	sphere_medium_hydrogen_medium_veryfast 3
 cluster_500_sector002_macro
-	sphere_medium_ore_low_average 5
+	sphere_large_ore_veryhigh_slow 2
 	sphere_medium_methane_medium_average 2
 	sphere_huge_methane_veryhigh_slow 2
+	sphere_large_ice_high_average 2
+	sphere_large_silicon_veryhigh_slow 2
 	sphere_medium_helium_medium_veryfast 5
-	sphere_huge_ice_medium_slow 1
-	sphere_huge_ore_medium_slow 2
 	sphere_medium_methane_medium_veryfast 3
+	sphere_huge_ice_veryhigh_slow 2
 	sphere_large_hydrogen_high_average 1
 	sphere_huge_helium_veryhigh_slow 3
-	sphere_huge_silicon_medium_slow 3
+	sphere_small_ice_medium_veryfast 8
 	sphere_huge_hydrogen_veryhigh_slow 3
-	sphere_medium_ice_low_veryfast 8
-	sphere_medium_silicon_low_average 5
+	sphere_medium_silicon_high_average 1
+	sphere_medium_ore_high_average 2
 	sphere_large_helium_high_average 1
 	sphere_medium_nividium_verylow_veryfast 3
 	sphere_medium_hydrogen_medium_veryfast 5
-	sphere_huge_ice_medium_average 1
 cluster_110_sector001_macro
 	sphere_large_hydrogen_high_slow 4
 	sphere_large_hydrogen_high_average 2
@@ -191,190 +223,221 @@ cluster_110_sector001_macro
 	sphere_medium_helium_medium_average 2
 	sphere_medium_hydrogen_medium_veryfast 6
 cluster_703_sector001_macro
+	sphere_small_ore_medium_average 1
 	sphere_large_hydrogen_high_slow 3
 	sphere_medium_methane_medium_average 6
-	sphere_large_silicon_low_average 5
-	sphere_huge_ice_medium_slow 1
-	sphere_huge_ore_medium_slow 1
+	sphere_medium_ice_medium_average 4
+	sphere_tiny_ore_low_fast 2
 	sphere_small_nividium_verylow_veryslow 1
-	sphere_large_ice_medium_fast 5
 	sphere_large_methane_high_slow 3
 	sphere_medium_hydrogen_medium_average 5
 	sphere_large_helium_high_slow 2
-	sphere_medium_ore_medium_fast 5
+	sphere_huge_ice_high_slow 1
+	sphere_medium_silicon_medium_average 4
+	sphere_huge_silicon_high_slow 1
+	sphere_large_ore_high_slow 2
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 1
 	sphere_medium_helium_medium_average 1
-	sphere_huge_silicon_low_slow 1
 cluster_112_sector002_macro
-	sphere_huge_ore_high_average 1
-	sphere_medium_ore_medium_veryfast 6
+	sphere_large_ore_veryhigh_slow 2
 	sphere_medium_methane_medium_average 6
 	sphere_huge_methane_veryhigh_slow 2
+	sphere_large_silicon_veryhigh_slow 2
 	sphere_huge_helium_veryhigh_slow 2
 	sphere_medium_hydrogen_medium_average 5
 	sphere_huge_hydrogen_veryhigh_slow 2
 	sphere_huge_nividium_medium_veryfast 2
-	sphere_medium_silicon_medium_veryfast 6
-	sphere_huge_silicon_high_average 2
+	sphere_tiny_silicon_medium_fast 2
+	sphere_medium_silicon_high_average 1
+	sphere_large_ore_high_average 1
 	sphere_medium_helium_medium_average 3
 cluster_112_sector001_macro
 	sphere_large_hydrogen_high_slow 3
-	sphere_medium_ore_medium_veryfast 6
+	sphere_large_ore_veryhigh_slow 2
 	sphere_medium_methane_medium_average 5
 	sphere_huge_methane_veryhigh_slow 2
+	sphere_large_silicon_veryhigh_slow 2
 	sphere_medium_hydrogen_medium_average 3
 	sphere_large_helium_high_slow 2
 	sphere_huge_nividium_medium_veryfast 1
-	sphere_medium_silicon_medium_veryfast 6
-	sphere_huge_silicon_high_average 1
-	sphere_huge_ore_medium_average 3
+	sphere_medium_silicon_high_average 2
+	sphere_small_silicon_medium_fast 2
+	sphere_large_ore_high_average 1
 	sphere_medium_helium_medium_average 5
 cluster_605_sector001_macro
-	sphere_huge_ore_verylow_slow 1
-	sphere_huge_silicon_verylow_slow 1
+	sphere_huge_ore_low_veryslow 2
+	sphere_huge_silicon_low_veryslow 2
 cluster_19_sector001_macro
-	sphere_medium_silicon_low_veryslow 7
-	sphere_medium_ore_low_veryslow 5
+	sphere_tiny_ore_low_fast 1
 	sphere_small_nividium_verylow_veryslow 1
 	sphere_small_helium_low_veryslow 5
 	sphere_small_methane_low_veryslow 1
+	sphere_tiny_ore_medium_average 1
 	sphere_medium_hydrogen_medium_veryslow 2
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 2
 cluster_19_sector002_macro
-	sphere_huge_ore_medium_slow 2
+	sphere_tiny_ore_low_fast 1
+	sphere_medium_silicon_high_slow 1
 	sphere_small_helium_low_veryslow 3
 	sphere_small_methane_low_veryslow 3
-	sphere_huge_silicon_medium_slow 2
 	sphere_small_nividium_verylow_slow 1
+	sphere_tiny_ore_medium_average 1
+	sphere_medium_ore_high_slow 1
 	sphere_medium_hydrogen_medium_veryslow 4
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 1
 cluster_31_sector001_macro
-	sphere_tiny_ore_high_veryfast 2
-	sphere_large_ore_veryhigh_slow 4
+	sphere_tiny_ore_low_fast 2
 	sphere_tiny_rawscrap_low_veryslow 2
-	sphere_medium_ore_high_average 4
+	sphere_tiny_ore_medium_average 4
+	sphere_small_ore_veryhigh_slow 4
 cluster_420_sector001_macro
-	sphere_medium_ore_high_veryfast 2
-	sphere_large_silicon_medium_slow 1
-	sphere_large_ore_medium_average 4
+	sphere_small_silicon_high_slow 2
+	sphere_tiny_ore_low_fast 2
+	sphere_tiny_ore_medium_average 2
+	sphere_medium_ore_high_slow 3
+	sphere_tiny_silicon_low_fast 2
+	sphere_tiny_silicon_medium_average 2
 cluster_48_sector001_macro
 	sphere_tiny_rawkhaakscrap_low_average 1
-	sphere_medium_silicon_low_veryfast 6
-	sphere_huge_ore_medium_slow 1
-	sphere_huge_ice_veryhigh_slow 1
-	sphere_large_ice_veryhigh_average 1
-	sphere_huge_silicon_medium_average 1
+	sphere_small_ore_medium_average 1
+	sphere_small_ice_high_slow 5
+	sphere_tiny_ore_low_fast 1
+	sphere_small_silicon_medium_average 3
+	sphere_tiny_ice_medium_average 3
+	sphere_huge_silicon_high_slow 6
+	sphere_large_ore_high_slow 4
 	sphere_huge_rawscrap_veryhigh_slow 2
-	sphere_huge_ore_medium_average 1
+	sphere_tiny_ice_low_fast 3
+	sphere_tiny_silicon_low_fast 2
 	sphere_tiny_rawscrap_medium_average 6
-	sphere_huge_silicon_low_slow 3
 cluster_724_sector001_macro
-	sphere_tiny_rawkhaakscrap_low_average 2
+	sphere_tiny_rawkhaakscrap_low_average 1
 	sphere_huge_rawscrap_medium_slow 2
 	sphere_medium_methane_medium_average 5
 	sphere_large_helium_high_veryslow 1
 	sphere_large_methane_high_slow 5
 	sphere_tiny_rawscrap_low_average 1
 cluster_113_sector001_macro
-	sphere_huge_ore_high_average 1
 	sphere_large_hydrogen_high_slow 2
-	sphere_medium_ore_medium_veryfast 6
+	sphere_large_ore_veryhigh_slow 2
+	sphere_large_ice_high_average 2
+	sphere_large_silicon_veryhigh_slow 2
 	sphere_large_nividium_low_veryfast 1
-	sphere_large_ice_medium_fast 4
+	sphere_huge_ice_veryhigh_slow 2
 	sphere_medium_hydrogen_medium_average 3
 	sphere_large_helium_high_slow 3
-	sphere_huge_ice_high_fast 1
-	sphere_medium_silicon_medium_veryfast 6
-	sphere_huge_silicon_high_average 1
+	sphere_medium_silicon_high_average 2
+	sphere_medium_ore_high_average 1
 	sphere_medium_helium_medium_average 3
 	sphere_large_methane_high_veryslow 7
 cluster_501_sector001_macro
-	sphere_medium_ore_medium_average 5
+	sphere_large_ore_veryhigh_slow 3
+	sphere_large_ice_high_average 2
+	sphere_large_silicon_veryhigh_slow 2
 	sphere_medium_hydrogen_medium_average 3
-	sphere_huge_ice_high_slow 1
-	sphere_huge_ore_veryhigh_slow 4
+	sphere_small_ice_medium_veryfast 2
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_large_silicon_medium_average 4
+	sphere_tiny_ore_medium_veryfast 4
 	sphere_medium_nividium_medium_veryfast 2
-	sphere_huge_silicon_high_slow 1
-	sphere_large_ice_medium_average 4
-	sphere_small_ore_medium_veryfast 12
-	sphere_medium_ice_medium_veryfast 8
+	sphere_medium_ore_high_average 3
+	sphere_large_ice_veryhigh_slow 3
 cluster_27_sector001_macro
-	sphere_huge_silicon_low_average 4
+	sphere_medium_ore_medium_average 8
 	sphere_small_nividium_low_fast 1
+	sphere_small_ice_high_slow 2
+	sphere_tiny_ore_low_fast 3
 	sphere_small_methane_low_average 4
-	sphere_huge_ice_medium_slow 3
 	sphere_small_helium_low_veryslow 3
-	sphere_huge_ice_high_average 1
-	sphere_huge_silicon_low_veryslow 3
 	sphere_large_methane_high_slow 2
 	sphere_large_hydrogen_high_veryslow 2
-	sphere_huge_ore_medium_average 2
+	sphere_medium_silicon_medium_average 6
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 1
 cluster_418_sector001_macro
 	sphere_medium_rawscrap_high_veryfast 1
+	sphere_tiny_ice_low_average 4
 	sphere_medium_methane_medium_veryslow 1
-	sphere_medium_ore_high_veryfast 4
+	sphere_tiny_ore_low_fast 1
+	sphere_small_silicon_medium_average 4
 	sphere_small_helium_low_veryslow 2
 	sphere_tiny_rawscrap_medium_veryfast 3
-	sphere_small_rawkhaakscrap_low_fast 1
+	sphere_medium_ice_medium_slow 4
+	sphere_tiny_rawkhaakscrap_verylow_average 3
+	sphere_tiny_ore_medium_average 3
+	sphere_medium_ore_high_slow 4
 	sphere_medium_hydrogen_medium_veryslow 1
 	sphere_small_nividium_low_veryfast 1
-	sphere_huge_ice_low_average 2
-	sphere_medium_silicon_medium_veryfast 4
-	sphere_huge_ore_medium_average 3
-	sphere_huge_silicon_low_slow 1
+	sphere_tiny_silicon_low_fast 4
+	sphere_large_silicon_high_slow 4
 cluster_01_sector002_macro
-	sphere_medium_ore_medium_average 5
+	sphere_tiny_ore_low_fast 4
+	sphere_medium_silicon_high_slow 3
+	sphere_tiny_ore_low_veryfast 2
 	sphere_small_helium_low_veryslow 2
+	sphere_small_ore_high_slow 6
 	sphere_small_methane_low_veryslow 1
 	sphere_tiny_rawscrap_verylow_veryslow 3
-	sphere_huge_silicon_medium_slow 2
-	sphere_huge_ice_low_slow 2
-	sphere_tiny_ore_medium_veryfast 8
+	sphere_tiny_ore_medium_average 6
 	sphere_medium_hydrogen_medium_veryslow 4
-	sphere_medium_silicon_medium_average 5
-	sphere_huge_ore_high_slow 2
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 3
+	sphere_small_ice_medium_average 1
+	sphere_tiny_silicon_medium_average 3
 cluster_01_sector003_macro
-	sphere_medium_ore_medium_average 5
+	sphere_small_silicon_high_slow 2
+	sphere_tiny_ore_low_fast 2
+	sphere_small_ore_high_slow 4
 	sphere_large_hydrogen_high_veryslow 2
 	sphere_small_nividium_verylow_slow 1
-	sphere_huge_ore_veryhigh_slow 1
-	sphere_medium_silicon_medium_average 5
-	sphere_huge_silicon_high_slow 1
+	sphere_tiny_ore_medium_average 3
+	sphere_tiny_silicon_low_fast 2
+	sphere_tiny_silicon_medium_average 1
 cluster_01_sector001_macro
+	sphere_small_ore_medium_average 4
 	sphere_large_hydrogen_high_slow 3
-	sphere_medium_ice_medium_average 5
-	sphere_huge_ore_medium_slow 2
-	sphere_huge_silicon_medium_slow 2
+	sphere_small_ice_high_slow 4
+	sphere_tiny_ore_low_fast 4
+	sphere_small_silicon_medium_average 4
 	sphere_medium_hydrogen_medium_average 4
 	sphere_small_nividium_verylow_slow 1
-	sphere_huge_ice_high_slow 2
-	sphere_tiny_ore_medium_veryfast 8
-	sphere_large_ore_medium_average 4
-	sphere_medium_silicon_medium_average 8
+	sphere_tiny_ice_medium_average 3
+	sphere_large_ore_high_slow 4
+	sphere_tiny_ice_low_fast 3
+	sphere_tiny_silicon_low_fast 3
+	sphere_large_silicon_high_slow 3
 cluster_26_sector001_macro
-	sphere_large_ore_veryhigh_slow 1
+	sphere_tiny_ore_low_fast 20
 	sphere_medium_nividium_veryhigh_average 1
 	sphere_large_hydrogen_high_average 2
+	sphere_small_ore_high_slow 20
+	sphere_tiny_ore_medium_average 20
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_medium_ore_high_average 8
 cluster_26_sector002_macro
 	sphere_large_hydrogen_high_slow 3
+	sphere_tiny_ore_low_fast 20
 	sphere_medium_nividium_veryhigh_average 1
+	sphere_medium_silicon_high_slow 20
+	sphere_small_ore_high_slow 20
 	sphere_medium_hydrogen_medium_average 6
-	sphere_huge_ore_veryhigh_slow 2
-	sphere_medium_silicon_medium_average 5
-	sphere_medium_ore_high_average 2
-	sphere_huge_silicon_veryhigh_slow 2
+	sphere_tiny_ore_medium_average 20
+	sphere_tiny_silicon_low_fast 20
+	sphere_tiny_silicon_medium_average 20
 cluster_108_sector003_macro
-	sphere_medium_ore_medium_average 10
 	sphere_large_hydrogen_high_slow 5
+	sphere_medium_ice_medium_average 4
+	sphere_medium_ore_veryhigh_slow 2
+	sphere_small_ore_high_average 1
 	sphere_medium_hydrogen_medium_average 2
 	sphere_large_helium_high_slow 4
-	sphere_huge_ore_veryhigh_slow 1
-	sphere_huge_silicon_medium_average 2
-	sphere_medium_ice_low_veryfast 10
-	sphere_large_silicon_medium_veryfast 4
-	sphere_huge_ice_low_average 3
+	sphere_huge_ice_high_slow 2
+	sphere_large_silicon_high_average 2
+	sphere_tiny_ore_medium_veryfast 1
+	sphere_tiny_silicon_medium_veryfast 2
 	sphere_medium_helium_medium_average 4
+	sphere_huge_silicon_veryhigh_slow 2
 cluster_108_sector002_macro
 	sphere_medium_methane_medium_veryfast 3
 	sphere_large_methane_veryhigh_slow 2
@@ -383,196 +446,230 @@ cluster_108_sector002_macro
 	sphere_medium_hydrogen_medium_veryfast 5
 	sphere_large_methane_high_average 2
 cluster_25_sector002_macro
-	sphere_large_ore_veryhigh_slow 3
-	sphere_large_silicon_veryhigh_slow 2
+	sphere_medium_silicon_veryhigh_slow 20
+	sphere_tiny_ore_low_fast 20
 	sphere_small_hydrogen_low_veryfast 5
 	sphere_large_hydrogen_high_average 2
+	sphere_tiny_ore_medium_average 20
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_medium_silicon_high_average 3
-	sphere_tiny_ore_medium_veryfast 5
-	sphere_tiny_silicon_medium_veryfast 5
-	sphere_medium_ore_high_average 3
+	sphere_tiny_silicon_low_fast 20
+	sphere_tiny_silicon_medium_average 20
+	sphere_small_ore_veryhigh_slow 20
 cluster_25_sector001_macro
+	sphere_medium_silicon_veryhigh_slow 20
 	sphere_large_rawscrap_medium_slow 2
+	sphere_tiny_ore_low_fast 20
 	sphere_large_hydrogen_high_average 2
-	sphere_huge_ore_veryhigh_slow 4
+	sphere_tiny_ore_medium_average 20
 	sphere_large_hydrogen_veryhigh_slow 3
-	sphere_medium_silicon_high_average 6
-	sphere_tiny_ore_medium_veryfast 4
-	sphere_tiny_silicon_medium_veryfast 8
-	sphere_medium_ore_high_average 4
+	sphere_tiny_silicon_low_fast 20
 	sphere_medium_hydrogen_medium_veryfast 3
-	sphere_huge_silicon_veryhigh_slow 4
+	sphere_tiny_silicon_medium_average 20
+	sphere_small_ore_veryhigh_slow 20
 cluster_03_sector001_macro
-	sphere_huge_ice_verylow_veryslow 3
+	sphere_tiny_ore_low_fast 3
 	sphere_small_nividium_verylow_slow 1
-	sphere_huge_silicon_low_slow 2
-	sphere_huge_ore_low_slow 2
+	sphere_tiny_ore_medium_average 1
+	sphere_tiny_ice_medium_average 2
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 1
 cluster_114_sector001_macro
-	sphere_huge_ore_high_average 1
-	sphere_medium_ore_medium_veryfast 6
+	sphere_large_ore_veryhigh_slow 2
 	sphere_medium_methane_medium_average 4
 	sphere_huge_methane_veryhigh_slow 1
+	sphere_large_silicon_veryhigh_slow 3
+	sphere_tiny_ore_medium_fast 1
 	sphere_medium_hydrogen_medium_average 3
 	sphere_huge_hydrogen_veryhigh_slow 2
 	sphere_huge_nividium_medium_veryfast 1
-	sphere_medium_silicon_medium_veryfast 6
-	sphere_huge_silicon_high_average 1
+	sphere_tiny_silicon_medium_fast 2
+	sphere_medium_silicon_high_average 2
+	sphere_medium_ore_high_average 2
 	sphere_huge_helium_veryhigh_veryslow 1
 cluster_425_sector001_macro
-	sphere_medium_silicon_medium_fast 8
-	sphere_large_ore_medium_average 4
-	sphere_huge_ore_high_slow 1
-	sphere_huge_silicon_veryhigh_slow 1
+	sphere_small_ore_medium_average 3
+	sphere_tiny_ore_low_fast 1
+	sphere_medium_silicon_high_slow 4
+	sphere_small_silicon_medium_average 5
+	sphere_large_ore_high_slow 3
+	sphere_tiny_silicon_low_fast 4
 cluster_710_sector001_macro
-	sphere_medium_ore_medium_average 4
-	sphere_huge_ice_medium_slow 1
-	sphere_huge_ore_medium_slow 2
-	sphere_medium_silicon_low_average 4
+	sphere_small_ore_medium_average 4
+	sphere_tiny_ore_low_fast 3
+	sphere_small_silicon_medium_average 4
+	sphere_huge_ice_high_slow 1
+	sphere_huge_ore_veryhigh_slow 1
+	sphere_huge_silicon_high_slow 1
+	sphere_tiny_ice_low_fast 3
+	sphere_tiny_silicon_low_fast 3
+	sphere_small_ice_medium_average 4
 	sphere_tiny_nividium_verylow_veryslow 1
-	sphere_huge_ice_medium_average 1
-	sphere_huge_silicon_low_slow 2
 cluster_715_sector001_macro
 	sphere_large_hydrogen_high_slow 2
 	sphere_medium_methane_medium_average 1
 	sphere_large_helium_high_veryslow 2
+	sphere_tiny_ore_low_fast 1
+	sphere_small_silicon_medium_average 3
 	sphere_small_nividium_medium_slow 1
-	sphere_huge_silicon_medium_slow 3
 	sphere_large_methane_high_slow 2
 	sphere_medium_hydrogen_medium_average 3
-	sphere_huge_ore_veryhigh_slow 1
-	sphere_large_silicon_medium_average 3
-	sphere_large_ore_veryhigh_average 2
+	sphere_tiny_ore_medium_average 3
+	sphere_medium_ore_high_slow 5
+	sphere_tiny_silicon_low_fast 1
+	sphere_large_silicon_high_slow 5
 cluster_412_sector001_macro
 	sphere_large_hydrogen_high_slow 2
 	sphere_medium_methane_medium_average 5
 	sphere_huge_methane_veryhigh_slow 2
 	sphere_medium_hydrogen_medium_average 4
 	sphere_large_helium_high_slow 2
-	sphere_huge_ice_high_slow 1
-	sphere_large_ice_high_veryfast 2
+	sphere_tiny_ice_low_fast 1
+	sphere_large_ice_high_slow 3
 	sphere_medium_helium_medium_average 5
-	sphere_medium_ice_medium_veryfast 2
+	sphere_small_ice_medium_average 5
 cluster_502_sector001_macro
 	sphere_large_hydrogen_high_average 3
 	sphere_huge_hydrogen_veryhigh_slow 3
 	sphere_medium_hydrogen_medium_veryfast 3
 cluster_17_sector001_macro
-	sphere_medium_ore_medium_veryfast 8
+	sphere_small_ore_medium_average 20
+	sphere_large_ore_veryhigh_slow 20
+	sphere_large_silicon_veryhigh_slow 20
+	sphere_tiny_ore_low_fast 20
 	sphere_medium_nividium_high_fast 1
+	sphere_small_silicon_medium_average 20
 	sphere_large_methane_veryhigh_slow 3
-	sphere_huge_ore_veryhigh_slow 2
-	sphere_large_silicon_medium_average 4
 	sphere_small_methane_low_veryfast 2
-	sphere_huge_silicon_high_slow 2
-	sphere_medium_silicon_medium_veryfast 8
-	sphere_large_ore_high_average 4
+	sphere_tiny_silicon_low_fast 20
 	sphere_large_methane_high_average 1
 cluster_424_sector002_macro
-	sphere_medium_ore_medium_veryfast 8
-	sphere_large_silicon_high_fast 4
-	sphere_small_silicon_low_veryfast 5
-	sphere_huge_ore_high_slow 1
-	sphere_huge_silicon_veryhigh_slow 1
-	sphere_large_ore_high_fast 1
+	sphere_small_ore_medium_average 5
+	sphere_tiny_ore_low_fast 3
+	sphere_small_silicon_medium_average 5
+	sphere_large_ore_high_slow 5
+	sphere_tiny_silicon_low_fast 5
+	sphere_large_silicon_high_slow 5
 cluster_44_sector001_macro
-	sphere_huge_nividium_low_veryfast 1
-	sphere_large_silicon_low_average 3
-	sphere_huge_ore_medium_slow 1
-	sphere_large_ore_low_average 3
-	sphere_huge_silicon_low_slow 3
+	sphere_huge_nividium_low_veryfast 2
+	sphere_medium_silicon_medium_fast 4
+	sphere_huge_ore_veryhigh_slow 2
+	sphere_huge_silicon_high_slow 4
+	sphere_medium_ore_medium_fast 4
+	sphere_small_ore_medium_veryfast 2
+	sphere_large_ore_high_average 3
 cluster_711_sector001_macro
-	sphere_medium_ore_medium_average 3
-	sphere_medium_ice_medium_average 4
-	sphere_huge_ice_medium_slow 1
-	sphere_huge_silicon_medium_slow 1
-	sphere_medium_silicon_medium_average 4
-	sphere_large_ore_high_average 1
-	sphere_huge_ore_high_slow 1
+	sphere_tiny_ore_low_fast 1
+	sphere_medium_silicon_high_slow 4
+	sphere_medium_ice_high_slow 3
+	sphere_small_ore_high_slow 3
+	sphere_tiny_ore_medium_average 1
+	sphere_tiny_ice_medium_average 2
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 2
 	sphere_tiny_nividium_low_slow 1
+	sphere_tiny_silicon_medium_average 1
 cluster_709_sector001_macro
+	sphere_small_ore_medium_average 1
 	sphere_large_hydrogen_high_slow 3
 	sphere_medium_methane_medium_average 5
 	sphere_huge_methane_veryhigh_slow 2
 	sphere_large_helium_high_veryslow 2
-	sphere_large_silicon_low_average 3
-	sphere_huge_ore_medium_slow 3
-	sphere_medium_hydrogen_medium_average 3
-	sphere_huge_ice_low_slow 3
-	sphere_large_ore_medium_average 3
-	sphere_large_ice_low_average 3
-	sphere_huge_silicon_low_slow 3
-cluster_705_sector001_macro
 	sphere_medium_ice_medium_average 5
-	sphere_huge_ice_medium_slow 3
-	sphere_huge_ore_medium_slow 3
+	sphere_tiny_ore_low_fast 2
+	sphere_medium_hydrogen_medium_average 3
+	sphere_medium_silicon_medium_average 5
+	sphere_large_ore_high_slow 3
+	sphere_tiny_ice_low_fast 3
+	sphere_tiny_silicon_low_fast 3
+cluster_705_sector001_macro
+	sphere_tiny_ore_low_fast 2
+	sphere_medium_silicon_high_slow 5
 	sphere_small_nividium_verylow_veryslow 3
-	sphere_huge_silicon_medium_slow 2
-	sphere_small_ice_medium_veryfast 5
-	sphere_large_silicon_medium_average 6
-	sphere_small_ore_medium_veryfast 5
-	sphere_large_ore_high_fast 4
+	sphere_small_silicon_medium_average 3
+	sphere_tiny_ore_medium_average 5
+	sphere_medium_ore_high_slow 5
+	sphere_tiny_ice_low_fast 3
+	sphere_large_ice_high_slow 5
+	sphere_tiny_silicon_low_fast 1
+	sphere_small_ice_medium_average 6
 cluster_702_sector001_macro
+	sphere_medium_ore_medium_average 5
 	sphere_medium_methane_medium_veryslow 3
-	sphere_medium_ice_low_fast 5
-	sphere_huge_ore_medium_slow 2
+	sphere_medium_ice_medium_average 5
+	sphere_large_ice_medium_slow 3
 	sphere_small_nividium_verylow_veryslow 1
+	sphere_large_silicon_medium_slow 3
 	sphere_large_hydrogen_high_veryslow 2
-	sphere_huge_ice_low_slow 2
-	sphere_medium_silicon_low_fast 5
-	sphere_huge_silicon_verylow_veryslow 2
-	sphere_medium_ore_medium_fast 5
+	sphere_medium_silicon_medium_average 5
+	sphere_large_ore_high_slow 3
+	sphere_small_ore_medium_veryfast 1
 	sphere_medium_helium_medium_veryslow 4
 cluster_24_sector001_macro
-	sphere_huge_ore_medium_slow 1
+	sphere_tiny_ore_low_fast 1
+	sphere_medium_silicon_high_slow 1
 	sphere_small_nividium_verylow_veryslow 1
 	sphere_small_methane_low_veryslow 1
-	sphere_huge_silicon_medium_slow 1
 	sphere_large_hydrogen_high_veryslow 2
-	sphere_huge_ice_low_slow 1
+	sphere_tiny_ore_medium_average 1
+	sphere_medium_ore_high_slow 1
+	sphere_tiny_ice_low_fast 4
+	sphere_tiny_silicon_low_fast 1
+	sphere_small_ice_medium_average 2
+	sphere_tiny_silicon_medium_average 1
 	sphere_medium_helium_medium_veryslow 1
 cluster_16_sector001_macro
+	sphere_small_ore_medium_average 2
+	sphere_tiny_ore_low_fast 1
+	sphere_small_silicon_medium_average 2
 	sphere_large_hydrogen_high_average 1
-	sphere_huge_ore_veryhigh_slow 1
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_large_silicon_medium_average 4
-	sphere_huge_silicon_high_slow 1
-	sphere_large_ore_high_average 4
+	sphere_large_ore_high_slow 4
+	sphere_tiny_silicon_low_fast 1
+	sphere_large_silicon_high_slow 4
 cluster_116_sector001_macro
-	sphere_large_ice_medium_veryfast 4
-	sphere_large_silicon_high_veryfast 5
-	sphere_huge_ore_high_average 1
+	sphere_small_ice_medium_fast 2
+	sphere_large_ore_veryhigh_slow 2
+	sphere_large_ice_high_average 1
+	sphere_large_silicon_veryhigh_slow 2
+	sphere_tiny_ore_low_veryfast 1
 	sphere_medium_methane_medium_veryfast 6
+	sphere_huge_ice_veryhigh_slow 2
 	sphere_large_methane_veryhigh_slow 2
 	sphere_large_hydrogen_high_average 2
+	sphere_tiny_ore_medium_fast 5
 	sphere_large_helium_high_slow 3
 	sphere_large_hydrogen_veryhigh_slow 3
 	sphere_huge_nividium_medium_veryfast 2
-	sphere_huge_silicon_high_average 1
+	sphere_tiny_silicon_medium_fast 4
+	sphere_medium_silicon_high_average 3
+	sphere_tiny_silicon_low_veryfast 1
+	sphere_large_ore_high_average 2
 	sphere_medium_helium_medium_average 5
 	sphere_medium_hydrogen_medium_veryfast 5
-	sphere_huge_ice_medium_average 2
-	sphere_large_ore_high_veryfast 4
 	sphere_large_methane_high_average 2
 cluster_608_sector001_macro
-	sphere_medium_silicon_low_veryfast 5
-	sphere_medium_ore_low_veryfast 5
+	sphere_medium_ore_low_average 2
+	sphere_large_ore_medium_slow 2
+	sphere_large_silicon_medium_slow 2
 	sphere_large_hydrogen_high_average 3
 	sphere_huge_hydrogen_veryhigh_slow 2
-	sphere_huge_silicon_medium_average 1
-	sphere_huge_ore_medium_average 2
+	sphere_medium_silicon_low_average 2
 	sphere_medium_hydrogen_medium_veryfast 6
 cluster_106_sector001_macro
 	sphere_medium_helium_medium_veryfast 3
 	sphere_large_helium_veryhigh_slow 3
 	sphere_large_helium_high_average 2
 cluster_422_sector001_macro
-	sphere_medium_ice_medium_average 5
-	sphere_large_ore_medium_fast 2
-	sphere_huge_ore_low_veryslow 1
-	sphere_huge_ice_high_slow 1
-	sphere_medium_silicon_low_fast 5
-	sphere_huge_silicon_low_slow 1
+	sphere_small_ore_medium_average 3
+	sphere_small_ice_high_slow 4
+	sphere_tiny_ore_low_fast 3
+	sphere_small_silicon_medium_average 6
+	sphere_tiny_ice_medium_average 4
+	sphere_huge_silicon_high_slow 2
+	sphere_large_ore_high_slow 3
+	sphere_tiny_ice_low_fast 4
+	sphere_tiny_silicon_low_fast 2
 cluster_603_sector001_macro
 	sphere_huge_methane_veryhigh_slow 2
 	sphere_medium_methane_medium_veryfast 3
@@ -586,61 +683,75 @@ cluster_421_sector001_macro
 	sphere_tiny_rawscrap_medium_veryslow 1
 	sphere_tiny_rawscrap_low_veryslow 1
 cluster_609_sector001_macro
-	sphere_medium_ore_low_veryfast 5
+	sphere_small_ore_medium_average 1
+	sphere_tiny_ore_low_fast 1
 	sphere_huge_helium_veryhigh_slow 2
-	sphere_huge_silicon_medium_slow 1
-	sphere_medium_silicon_medium_veryfast 5
-	sphere_huge_ore_medium_average 2
+	sphere_medium_silicon_medium_average 3
+	sphere_large_ore_high_slow 4
 	sphere_medium_helium_medium_average 5
+	sphere_large_silicon_high_slow 4
 cluster_503_sector001_macro
+	sphere_small_ore_low_slow 3
 	sphere_small_rawscrap_medium_average 2
-	sphere_huge_ore_medium_slow 1
+	sphere_small_ore_low_average 2
 	sphere_large_hydrogen_high_average 3
+	sphere_small_silicon_low_average 2
+	sphere_small_silicon_low_slow 2
 	sphere_large_nividium_verylow_veryfast 1
+	sphere_small_ice_low_fast 1
 	sphere_huge_hydrogen_veryhigh_slow 2
 	sphere_huge_rawscrap_veryhigh_slow 1
-	sphere_huge_ice_verylow_slow 3
+	sphere_large_ice_medium_average 2
 	sphere_medium_hydrogen_medium_veryfast 3
-	sphere_huge_silicon_low_slow 1
 cluster_411_sector001_macro
-	sphere_huge_silicon_low_average 1
+	sphere_small_ore_medium_average 6
 	sphere_large_hydrogen_high_slow 2
-	sphere_medium_ore_medium_veryfast 12
-	sphere_medium_ice_medium_average 8
-	sphere_huge_ice_veryhigh_slow 1
+	sphere_tiny_ore_low_fast 3
+	sphere_medium_ice_high_slow 3
 	sphere_medium_hydrogen_medium_average 5
-	sphere_small_ice_medium_veryfast 8
-	sphere_large_silicon_medium_veryfast 4
-	sphere_huge_ore_low_average 3
+	sphere_tiny_ice_medium_average 2
+	sphere_tiny_silicon_low_veryfast 1
+	sphere_tiny_ice_low_fast 4
+	sphere_tiny_silicon_low_fast 5
+	sphere_huge_silicon_high_average 2
+	sphere_huge_ore_high_slow 2
+	sphere_large_ice_veryhigh_slow 3
 cluster_13_sector001_macro
-	sphere_medium_ore_medium_average 8
 	sphere_small_nividium_low_fast 2
-	sphere_huge_ice_medium_slow 3
-	sphere_huge_ore_medium_slow 3
-	sphere_huge_silicon_medium_slow 2
+	sphere_small_ice_high_slow 5
+	sphere_tiny_ore_low_fast 1
+	sphere_medium_silicon_high_slow 3
 	sphere_medium_hydrogen_medium_average 2
+	sphere_tiny_ore_medium_average 1
+	sphere_medium_ore_high_slow 2
 	sphere_huge_hydrogen_veryhigh_slow 1
-	sphere_large_silicon_medium_average 4
-	sphere_large_ice_medium_average 4
+	sphere_tiny_ice_medium_average 3
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 2
 cluster_46_sector001_macro
+	sphere_large_silicon_high_veryslow 3
 	sphere_huge_hydrogen_veryhigh_veryslow 1
-	sphere_medium_ore_high_veryfast 1
-	sphere_medium_silicon_medium_fast 5
-	sphere_huge_ore_veryhigh_slow 1
+	sphere_huge_ice_medium_slow 2
+	sphere_small_silicon_medium_average 5
+	sphere_tiny_ore_medium_fast 5
+	sphere_medium_ore_high_slow 5
+	sphere_tiny_ore_medium_veryfast 1
 	sphere_medium_nividium_medium_veryfast 2
-	sphere_medium_ore_medium_fast 5
-	sphere_large_ice_verylow_slow 4
-	sphere_huge_silicon_veryhigh_slow 1
+	sphere_small_silicon_medium_fast 2
 	sphere_medium_helium_medium_veryslow 2
 cluster_607_sector001_macro
-	sphere_medium_ore_medium_veryfast 5
+	sphere_small_ore_medium_average 5
 	sphere_medium_methane_medium_average 5
 	sphere_huge_methane_veryhigh_slow 2
-	sphere_huge_ore_medium_slow 2
-	sphere_huge_silicon_medium_slow 1
-	sphere_huge_ice_high_fast 1
-	sphere_medium_silicon_medium_veryfast 5
-	sphere_medium_ice_medium_veryfast 5
+	sphere_tiny_ore_low_fast 4
+	sphere_medium_silicon_medium_average 5
+	sphere_large_ore_high_slow 3
+	sphere_tiny_ice_low_fast 2
+	sphere_large_ice_high_slow 4
+	sphere_tiny_silicon_low_fast 1
+	sphere_small_ice_medium_average 3
+	sphere_large_silicon_high_slow 4
 cluster_413_sector001_macro
 	sphere_large_hydrogen_high_slow 5
 	sphere_medium_methane_medium_veryfast 5
@@ -648,137 +759,159 @@ cluster_413_sector001_macro
 	sphere_small_hydrogen_low_veryfast 4
 	sphere_medium_hydrogen_medium_average 4
 	sphere_large_helium_high_slow 3
-	sphere_huge_ice_high_slow 1
-	sphere_large_ice_high_fast 2
+	sphere_tiny_ice_low_fast 2
+	sphere_large_ice_high_slow 4
 	sphere_medium_helium_medium_average 3
-	sphere_medium_ice_medium_veryfast 6
+	sphere_small_ice_medium_average 4
 	sphere_large_methane_high_average 2
 cluster_721_sector001_macro
 	sphere_large_hydrogen_high_slow 3
 	sphere_huge_nividium_low_average 1
-	sphere_medium_ore_medium_veryfast 6
+	sphere_large_ore_veryhigh_slow 3
 	sphere_medium_methane_medium_average 3
 	sphere_large_helium_high_veryslow 1
-	sphere_small_silicon_medium_veryfast 6
-	sphere_large_silicon_high_fast 3
+	sphere_large_silicon_veryhigh_slow 3
+	sphere_tiny_ore_low_fast 3
+	sphere_medium_silicon_high_slow 3
 	sphere_large_methane_high_slow 3
 	sphere_medium_hydrogen_medium_average 5
-	sphere_huge_silicon_high_slow 1
-	sphere_huge_ore_high_slow 1
-	sphere_large_ore_high_fast 3
+	sphere_tiny_ore_medium_average 5
+	sphere_tiny_silicon_low_fast 3
+	sphere_tiny_silicon_medium_average 3
 cluster_100_sector001_macro
-	sphere_large_ice_medium_veryfast 5
-	sphere_huge_ore_high_average 1
+	sphere_small_ore_medium_fast 3
 	sphere_large_hydrogen_high_slow 4
-	sphere_medium_ore_medium_veryfast 10
-	sphere_large_ore_medium_fast 5
+	sphere_large_ice_high_average 3
+	sphere_large_silicon_veryhigh_slow 2
 	sphere_medium_helium_medium_veryfast 3
 	sphere_medium_methane_medium_veryfast 3
+	sphere_huge_ice_veryhigh_slow 2
 	sphere_large_hydrogen_high_average 2
-	sphere_large_ice_medium_fast 5
 	sphere_large_methane_high_slow 4
 	sphere_large_helium_high_slow 4
-	sphere_large_silicon_medium_fast 5
+	sphere_small_ice_medium_veryfast 5
+	sphere_huge_ore_veryhigh_slow 2
 	sphere_huge_nividium_medium_veryfast 1
-	sphere_medium_silicon_medium_veryfast 10
-	sphere_huge_silicon_high_average 1
+	sphere_medium_silicon_high_average 2
+	sphere_tiny_ore_medium_veryfast 2
+	sphere_tiny_silicon_low_veryfast 1
+	sphere_small_silicon_medium_fast 2
+	sphere_large_ore_high_average 6
 	sphere_medium_hydrogen_medium_veryfast 3
-	sphere_huge_ice_medium_average 2
 	sphere_large_methane_high_average 2
 	sphere_large_helium_medium_average 2
 cluster_11_sector001_macro
 	sphere_large_hydrogen_high_veryslow 1
-	sphere_huge_ice_medium_average 2
+	sphere_tiny_ice_medium_average 1
+	sphere_tiny_ice_low_fast 1
+	sphere_large_ice_high_slow 1
 	sphere_large_methane_high_veryslow 1
 	sphere_medium_helium_medium_veryslow 2
 cluster_29_sector002_macro
-	sphere_medium_silicon_veryhigh_slow 4
+	sphere_tiny_silicon_high_slow 2
+	sphere_tiny_ore_low_fast 1
+	sphere_tiny_ore_high_slow 1
 	sphere_tiny_nividium_low_veryslow 1
-	sphere_medium_ore_veryhigh_slow 4
 	sphere_small_methane_low_veryslow 1
-	sphere_tiny_ore_high_average 6
+	sphere_tiny_ore_medium_average 1
 	sphere_medium_hydrogen_medium_veryslow 2
-	sphere_tiny_silicon_high_average 6
-	sphere_medium_ice_low_slow 6
+	sphere_tiny_ice_medium_average 2
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 3
 	sphere_medium_helium_medium_veryslow 2
 cluster_28_sector001_macro
-	sphere_huge_ore_high_average 1
-	sphere_huge_ice_high_average 1
-	sphere_medium_silicon_medium_fast 3
+	sphere_tiny_ore_low_fast 2
+	sphere_medium_silicon_high_slow 4
 	sphere_large_hydrogen_high_veryslow 1
-	sphere_medium_ice_medium_fast 3
-	sphere_medium_ore_medium_fast 3
-	sphere_huge_silicon_high_average 1
+	sphere_tiny_ore_medium_average 1
+	sphere_medium_ore_high_slow 2
+	sphere_tiny_ice_medium_average 3
+	sphere_tiny_ice_low_fast 2
+	sphere_large_ice_high_slow 4
+	sphere_tiny_silicon_low_fast 1
 	sphere_small_nividium_low_slow 1
+	sphere_tiny_silicon_medium_average 2
 	sphere_medium_helium_medium_veryslow 2
 cluster_32_sector002_macro
-	sphere_small_ore_medium_average 8
-	sphere_small_ore_high_veryfast 2
-	sphere_huge_ore_medium_slow 4
-	sphere_small_silicon_medium_average 6
-	sphere_huge_silicon_medium_slow 3
+	sphere_tiny_ore_low_fast 3
+	sphere_medium_silicon_high_slow 4
+	sphere_small_ore_high_slow 6
 	sphere_large_hydrogen_high_veryslow 1
+	sphere_tiny_ore_medium_average 5
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 2
 cluster_32_sector001_macro
-	sphere_small_ore_high_veryfast 1
-	sphere_large_ore_veryhigh_slow 4
-	sphere_large_silicon_veryhigh_slow 3
+	sphere_tiny_ore_low_fast 20
+	sphere_medium_silicon_high_slow 20
 	sphere_large_hydrogen_high_average 1
 	sphere_medium_nividium_medium_slow 1
-	sphere_small_silicon_high_veryfast 1
 	sphere_tiny_rawscrap_verylow_veryslow 5
+	sphere_tiny_ore_medium_average 20
 	sphere_large_hydrogen_veryhigh_slow 3
-	sphere_medium_silicon_high_average 2
-	sphere_medium_ore_high_average 2
+	sphere_tiny_silicon_low_fast 20
 	sphere_medium_hydrogen_medium_veryfast 2
+	sphere_tiny_silicon_medium_average 20
+	sphere_small_ore_veryhigh_slow 20
 cluster_504_sector001_macro
+	sphere_small_ore_medium_average 3
+	sphere_large_ore_veryhigh_slow 3
+	sphere_tiny_ore_low_fast 5
+	sphere_small_silicon_medium_average 3
 	sphere_large_hydrogen_high_average 2
-	sphere_huge_silicon_medium_slow 2
 	sphere_huge_hydrogen_veryhigh_slow 3
-	sphere_large_silicon_medium_average 4
-	sphere_large_ore_medium_average 4
 	sphere_medium_nividium_medium_veryfast 1
-	sphere_medium_silicon_medium_veryfast 8
-	sphere_small_ore_medium_veryfast 8
-	sphere_huge_ore_high_slow 1
+	sphere_tiny_silicon_low_fast 5
 	sphere_medium_hydrogen_medium_veryfast 2
+	sphere_huge_silicon_veryhigh_slow 3
 cluster_713_sector001_macro
 	sphere_medium_methane_medium_average 5
 	sphere_large_helium_high_veryslow 2
-	sphere_huge_ice_medium_slow 1
-	sphere_huge_silicon_medium_slow 1
+	sphere_tiny_ore_low_fast 2
+	sphere_medium_silicon_high_slow 8
+	sphere_medium_ice_high_slow 5
 	sphere_large_methane_high_slow 2
 	sphere_large_hydrogen_high_veryslow 8
-	sphere_large_silicon_medium_average 3
-	sphere_large_ice_medium_average 3
-	sphere_large_ore_high_average 2
-	sphere_huge_ore_high_slow 1
+	sphere_tiny_ore_medium_average 3
+	sphere_medium_ore_high_slow 6
+	sphere_tiny_ice_medium_average 3
+	sphere_tiny_ice_low_fast 2
+	sphere_tiny_silicon_low_fast 2
+	sphere_tiny_silicon_medium_average 4
 cluster_35_sector001_macro
-	sphere_huge_silicon_low_average 2
-	sphere_large_ice_high_average 2
-	sphere_huge_ice_high_slow 1
+	sphere_small_ore_medium_average 1
+	sphere_small_ice_high_slow 3
+	sphere_tiny_ore_low_fast 1
 	sphere_medium_hydrogen_medium_veryslow 3
-	sphere_huge_ore_medium_average 2
+	sphere_medium_silicon_medium_average 5
+	sphere_large_ore_high_slow 2
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 3
 cluster_706_sector001_macro
-	sphere_huge_silicon_low_average 1
-	sphere_large_ore_low_fast 4
-	sphere_huge_ice_low_slow 2
-	sphere_large_ice_low_average 4
-	sphere_huge_ore_low_average 1
-	sphere_large_silicon_low_fast 4
+	sphere_medium_ore_medium_average 3
+	sphere_large_ice_medium_veryslow 4
+	sphere_medium_ice_medium_average 3
+	sphere_large_ore_medium_slow 4
+	sphere_medium_silicon_medium_average 3
+	sphere_large_silicon_medium_veryslow 4
 cluster_712_sector001_macro
+	sphere_medium_ice_medium_average 4
+	sphere_tiny_ore_low_fast 2
 	sphere_medium_nividium_medium_fast 1
-	sphere_huge_ice_low_slow 3
-	sphere_huge_silicon_medium_average 1
-	sphere_huge_ore_high_slow 1
-	sphere_huge_ore_veryhigh_average 1
-	sphere_huge_ice_medium_average 1
-	sphere_huge_silicon_low_slow 3
+	sphere_huge_ice_high_slow 1
+	sphere_tiny_ore_medium_average 1
+	sphere_medium_silicon_medium_average 5
+	sphere_huge_silicon_high_slow 1
+	sphere_large_ore_high_slow 3
+	sphere_tiny_ice_low_fast 3
+	sphere_tiny_silicon_low_fast 2
 cluster_720_sector001_macro
+	sphere_small_ore_medium_average 4
 	sphere_medium_methane_medium_veryslow 1
-	sphere_huge_ore_medium_slow 1
+	sphere_tiny_ore_low_fast 2
 	sphere_huge_rawscrap_high_veryfast 3
 	sphere_medium_hydrogen_medium_veryslow 1
-	sphere_large_ore_low_average 3
+	sphere_large_ore_high_slow 3
 	sphere_medium_helium_medium_veryslow 2
 cluster_414_sector001_macro
 	sphere_large_rawscrap_veryhigh_slow 2
@@ -786,124 +919,168 @@ cluster_414_sector001_macro
 	sphere_tiny_rawscrap_high_veryfast 1
 cluster_401_sector001_macro
 	sphere_huge_hydrogen_veryhigh_veryslow 1
-	sphere_large_nividium_medium_slow 2
-	sphere_huge_ore_veryhigh_slow 1
-	sphere_large_silicon_high_average 2
-	sphere_large_ore_high_average 4
-	sphere_huge_silicon_veryhigh_slow 1
+	sphere_tiny_ore_low_fast 1
+	sphere_medium_silicon_high_slow 4
+	sphere_tiny_ore_low_veryfast 1
+	sphere_tiny_ore_medium_average 4
+	sphere_medium_ore_high_slow 6
+	sphere_large_nividium_low_slow 2
+	sphere_tiny_silicon_low_veryfast 1
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 5
 	sphere_large_methane_high_veryslow 1
 	sphere_medium_helium_medium_veryslow 3
 cluster_38_sector001_macro
+	sphere_small_ore_medium_average 3
 	sphere_large_helium_high_veryslow 2
-	sphere_huge_ore_medium_slow 1
+	sphere_tiny_ore_low_fast 4
 	sphere_large_hydrogen_high_average 1
-	sphere_huge_silicon_verylow_slow 4
+	sphere_medium_silicon_low_fast 3
 	sphere_large_hydrogen_veryhigh_slow 3
+	sphere_huge_silicon_medium_average 2
+	sphere_large_ore_high_slow 3
 	sphere_large_nividium_medium_veryfast 2
 	sphere_medium_hydrogen_medium_veryfast 2
+	sphere_large_silicon_high_slow 1
 cluster_47_sector001_macro
+	sphere_small_ore_medium_average 2
 	sphere_medium_methane_medium_veryslow 2
-	sphere_large_ore_medium_slow 4
+	sphere_medium_ice_low_fast 2
+	sphere_tiny_ore_low_fast 1
 	sphere_large_nividium_high_veryfast 1
-	sphere_large_silicon_medium_slow 4
-	sphere_large_silicon_medium_average 2
+	sphere_small_silicon_medium_average 3
 	sphere_medium_hydrogen_medium_veryslow 3
-	sphere_large_ore_high_average 3
-	sphere_large_ice_verylow_slow 2
+	sphere_large_ore_high_slow 3
+	sphere_large_ice_medium_average 5
+	sphere_tiny_silicon_low_fast 1
+	sphere_large_silicon_high_slow 6
 	sphere_medium_helium_medium_veryslow 2
 cluster_708_sector001_macro
 	sphere_small_rawkhaakscrap_low_veryslow 2
 	sphere_huge_rawscrap_medium_slow 2
 	sphere_medium_rawscrap_high_fast 3
-	sphere_huge_silicon_low_veryfast 1
-	sphere_huge_ore_verylow_average 2
+	sphere_medium_ore_low_slow 4
+	sphere_small_ore_low_average 3
+	sphere_small_silicon_low_average 3
+	sphere_medium_silicon_low_slow 4
 cluster_36_sector001_macro
+	sphere_small_ore_medium_average 1
 	sphere_large_hydrogen_high_slow 4
-	sphere_huge_ore_medium_slow 4
-	sphere_huge_silicon_medium_slow 3
+	sphere_tiny_ore_low_fast 3
+	sphere_small_silicon_medium_average 1
 	sphere_medium_hydrogen_medium_average 5
+	sphere_large_ore_high_slow 5
+	sphere_tiny_silicon_low_fast 1
+	sphere_large_silicon_high_slow 5
 cluster_725_sector001_macro
+	sphere_small_ore_medium_average 2
 	sphere_medium_methane_medium_veryslow 1
-	sphere_huge_ore_medium_slow 3
+	sphere_tiny_ore_low_fast 1
+	sphere_small_silicon_medium_average 2
 	sphere_medium_hydrogen_medium_veryslow 1
+	sphere_huge_silicon_high_slow 1
+	sphere_large_ore_high_slow 2
+	sphere_tiny_silicon_low_fast 1
 	sphere_tiny_nividium_verylow_veryslow 1
-	sphere_huge_silicon_low_slow 2
 	sphere_medium_helium_medium_veryslow 1
 cluster_21_sector001_macro
-	sphere_huge_ore_medium_slow 1
-	sphere_huge_silicon_medium_slow 1
+	sphere_tiny_ore_low_fast 1
+	sphere_medium_silicon_high_slow 1
 	sphere_small_nividium_verylow_slow 1
+	sphere_tiny_ore_medium_average 3
+	sphere_medium_ore_high_slow 3
 	sphere_medium_hydrogen_medium_veryslow 4
+	sphere_tiny_silicon_low_fast 1
 	sphere_huge_rawscrap_veryhigh_veryslow 1
 	sphere_tiny_rawscrap_medium_average 3
+	sphere_tiny_silicon_medium_average 2
 cluster_21_sector002_macro
-	sphere_large_ore_low_slow 1
-	sphere_large_silicon_low_slow 1
+	sphere_tiny_ore_low_fast 3
+	sphere_medium_silicon_high_slow 6
+	sphere_tiny_ore_medium_average 5
+	sphere_large_ore_high_slow 3
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 4
 cluster_45_sector001_macro
-	sphere_large_silicon_verylow_average 4
 	sphere_small_rawkhaakscrap_low_veryfast 1
 	sphere_tiny_rawscrap_medium_veryfast 5
-	sphere_huge_ore_verylow_slow 4
+	sphere_medium_ore_low_fast 1
 	sphere_large_rawscrap_high_average 2
-	sphere_huge_silicon_verylow_slow 4
-	sphere_large_ore_verylow_average 4
+	sphere_medium_silicon_low_fast 1
+	sphere_large_silicon_medium_average 3
+	sphere_large_ore_medium_average 3
 	sphere_huge_rawscrap_veryhigh_slow 3
 cluster_07_sector001_macro
-	sphere_medium_ore_medium_average 9
-	sphere_huge_ore_veryhigh_slow 2
+	sphere_tiny_ore_low_fast 3
+	sphere_small_ore_high_slow 9
+	sphere_tiny_ore_medium_average 7
 cluster_06_sector001_macro
 	sphere_medium_methane_medium_veryslow 3
+	sphere_tiny_ore_low_fast 1
 	sphere_small_nividium_verylow_veryslow 1
 	sphere_small_helium_low_veryslow 1
 	sphere_large_hydrogen_high_veryslow 1
-	sphere_huge_silicon_low_slow 2
-	sphere_huge_ore_low_slow 2
+	sphere_tiny_ore_medium_average 1
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 1
 cluster_06_sector002_macro
 	sphere_medium_methane_medium_veryslow 4
 	sphere_large_hydrogen_high_veryslow 1
 	sphere_medium_helium_medium_veryslow 1
 cluster_722_sector001_macro
+	sphere_tiny_ore_low_fast 3
+	sphere_medium_silicon_high_slow 5
 	sphere_tiny_methane_verylow_veryslow 2
 	sphere_small_nividium_low_veryslow 2
-	sphere_huge_silicon_medium_slow 3
-	sphere_huge_ore_veryhigh_slow 1
-	sphere_huge_silicon_high_average 1
-	sphere_large_ore_high_average 3
+	sphere_tiny_ore_medium_average 4
+	sphere_medium_ore_high_slow 4
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 2
 cluster_402_sector001_macro
-	sphere_medium_ore_medium_average 4
-	sphere_medium_ice_medium_average 8
-	sphere_huge_ice_veryhigh_slow 1
-	sphere_huge_ore_veryhigh_slow 2
-	sphere_medium_silicon_medium_average 8
-	sphere_huge_silicon_veryhigh_slow 2
+	sphere_small_silicon_high_slow 7
+	sphere_small_ice_high_slow 3
+	sphere_tiny_ore_low_fast 3
+	sphere_small_ore_high_slow 4
+	sphere_tiny_ore_medium_average 3
+	sphere_tiny_ice_medium_average 4
+	sphere_tiny_ice_low_fast 2
+	sphere_tiny_silicon_low_fast 2
+	sphere_tiny_silicon_medium_average 2
 cluster_04_sector001_macro
 	sphere_small_nividium_low_fast 2
-	sphere_huge_ice_medium_slow 2
-	sphere_medium_ore_high_veryfast 2
-	sphere_large_ice_medium_fast 4
+	sphere_tiny_ore_low_fast 4
+	sphere_medium_ore_veryhigh_slow 5
 	sphere_medium_hydrogen_high_average 4
-	sphere_huge_ore_veryhigh_slow 1
+	sphere_tiny_ore_medium_average 3
+	sphere_medium_ore_high_slow 3
 	sphere_large_hydrogen_veryhigh_slow 4
-	sphere_small_ore_medium_veryfast 8
-	sphere_medium_ore_high_fast 8
-	sphere_medium_ice_medium_veryfast 8
+	sphere_tiny_ice_low_fast 4
+	sphere_large_ice_high_slow 4
+	sphere_small_ice_medium_average 4
 	sphere_medium_hydrogen_medium_veryfast 5
 cluster_15_sector001_macro
 	sphere_medium_methane_medium_veryslow 1
-	sphere_huge_ice_low_slow 2
 	sphere_medium_hydrogen_medium_veryslow 2
+	sphere_tiny_ice_medium_average 2
+	sphere_tiny_ice_low_fast 1
 	sphere_medium_helium_medium_veryslow 1
 cluster_15_sector002_macro
-	sphere_huge_ore_medium_slow 1
+	sphere_tiny_ore_low_fast 1
 	sphere_small_nividium_verylow_veryslow 1
-	sphere_huge_silicon_medium_slow 1
-	sphere_huge_ice_low_slow 3
+	sphere_tiny_ore_medium_average 3
+	sphere_tiny_ice_medium_average 1
+	sphere_tiny_ice_low_fast 1
+	sphere_tiny_silicon_low_fast 1
+	sphere_tiny_silicon_medium_average 2
 cluster_740_sector001_macro
-	sphere_huge_ore_medium_slow 2
+	sphere_medium_ore_medium_average 4
+	sphere_large_rawscrap_verylow_slow 1
 	sphere_small_helium_low_veryslow 2
-	sphere_huge_rawscrap_medium_veryfast 1
+	sphere_large_ore_high_slow 2
 cluster_730_sector001_macro
 	sphere_medium_methane_medium_veryslow 2
-	sphere_huge_ore_verylow_veryslow 2
+	sphere_medium_ore_low_slow 2
 	sphere_small_nividium_verylow_veryslow 1
-	sphere_huge_ice_verylow_veryslow 2
+	sphere_small_ore_low_average 2
+	sphere_tiny_ice_medium_veryfast 1
+	sphere_medium_ice_low_veryslow 3
